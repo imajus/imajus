@@ -95,21 +95,21 @@ Senior Software Engineer with **20+ years of experience** building clean, mainta
 
 Active participant in **10+ Web3 hackathons** (2023-2025), winning partner prizes in most events and reaching Finalist status at ETHOnline 2023.
 
-| Hackathon | Project | Achievement | Tech Stack | Team Size |
+| Hackathon | Project | Achievement | Tech Stack | Team |
 |-----------|---------|-------------|------------|-----------|
-| ETHOnline 2023 | [ShopConnect](https://ethglobal.com/showcase/shopconnect-0qanh) | 🏆 ETHGlobal Finalist + Partner Prizes | Polygon ID, Zero-Knowledge Proofs | 👨🏻👨🏻👨🏻👨🏻👨🏻 |
-| ETHGlobal Istanbul 2023 | [DirectHelp](https://ethglobal.com/showcase/directhelp-sv9qe) | 🥇 1st Place UMA & Across | EAS, UMA Oracle | 👨🏻👨🏻👨🏻 |
-| Circuit Breaker 2024 | [AnonFund](https://ethglobal.com/showcase/anonfund-diog1) | 🏅 Best Iron Fish Protocol | IronFish, ZK Proofs | 👨🏻 |
-| Scaling Ethereum 2024 | [NoCodeSol](https://ethglobal.com/showcase/nocodesol-ckw6r) | 🏅 Morph Innovation Track | Solidity Compiler, Browser | 👨🏻 |
-| Agentic Ethereum 2024 | [Flowgent](https://ethglobal.com/showcase/flowgent-8k3a8) | 🏅 Best Flow Plugin | n8n, Flow Blockchain, AI Agents | 👨🏻 |
-| Superhack 2024 | [Napkin Contract](https://ethglobal.com/showcase/napkin-contract-s7p5q) | 🏅 Best Social App on Base | EAS, Base | 👨🏻👨🏻👨🏻👩🏻👨🏻 |
-| ETHOnline 2024 | [Loyalz](https://ethglobal.com/showcase/loyalz-3yidk) | 🏅 Best DeFi Micro-Rollups | Stackr, Envio | 👨🏻👨🏻👨🏻👩🏻👨🏻 |
-| ETHGlobal Bangkok 2024 | [Resell Protocol](https://ethglobal.com/showcase/resell-protocol-d47u8) | 🥇 1st Place Sign Protocol | PBTs, HaLo Chips | 👨🏻👩🏻👨🏻 |
-| ETHGlobal Trifecta 2025 | [Aggy](https://ethglobal.com/showcase/aggy-0fx3w) |  | Privy, Nillion, UMA | 👨🏻👨🏻👨🏻 |
-| PL_Genesis 2025 | [FiloDataBroker](https://github.com/imajus/filo-data-broker) | 🏅 Main Track + Partner Prizes | Filecoin, Lit Protocol, MCP | 👨🏻 |
-| Somnia DeFi 2025 | [EmberNFT](https://dorahacks.io/buidl/32824) |  | Somnia, AI-Generated NFTs | 👨🏻 |
-| ETHGlobal Unite DeFi 2025 | [OPA](https://ethglobal.com/showcase/opa-irqup) |  | 1inch, No-Code Builder | 👨🏻 |
-| ETHOnline 2025 | [Goin' In](https://ethglobal.com/showcase/goin-in-8op71) | 🥈 2nd Place Arcology | Arcology, Envio | 👨🏻 |
+| ETHOnline 2023 | [ShopConnect](https://ethglobal.com/showcase/shopconnect-0qanh) | 🏆 ETHGlobal Finalist + Partner Prizes | Polygon ID, Zero-Knowledge Proofs | 5 |
+| ETHGlobal Istanbul 2023 | [DirectHelp](https://ethglobal.com/showcase/directhelp-sv9qe) | 🥇 1st Place UMA & Across | EAS, UMA Oracle | 3 |
+| Circuit Breaker 2024 | [AnonFund](https://ethglobal.com/showcase/anonfund-diog1) | 🏅 Best Iron Fish Protocol | IronFish, ZK Proofs | 1 |
+| Scaling Ethereum 2024 | [NoCodeSol](https://ethglobal.com/showcase/nocodesol-ckw6r) | 🏅 Morph Innovation Track | Solidity Compiler, Browser | 1 |
+| Agentic Ethereum 2024 | [Flowgent](https://ethglobal.com/showcase/flowgent-8k3a8) | 🏅 Best Flow Plugin | n8n, Flow Blockchain, AI Agents | 1 |
+| Superhack 2024 | [Napkin Contract](https://ethglobal.com/showcase/napkin-contract-s7p5q) | 🏅 Best Social App on Base | EAS, Base | 5 |
+| ETHOnline 2024 | [Loyalz](https://ethglobal.com/showcase/loyalz-3yidk) | 🏅 Best DeFi Micro-Rollups | Stackr, Envio | 5 |
+| ETHGlobal Bangkok 2024 | [Resell Protocol](https://ethglobal.com/showcase/resell-protocol-d47u8) | 🥇 1st Place Sign Protocol | PBTs, HaLo Chips | 3 |
+| ETHGlobal Trifecta 2025 | [Aggy](https://ethglobal.com/showcase/aggy-0fx3w) |  | Privy, Nillion, UMA | 3 |
+| PL_Genesis 2025 | [FiloDataBroker](https://github.com/imajus/filo-data-broker) | 🏅 Main Track + Partner Prizes | Filecoin, Lit Protocol, MCP | 1 |
+| Somnia DeFi 2025 | [EmberNFT](https://dorahacks.io/buidl/32824) |  | Somnia, AI-Generated NFTs | 1 |
+| ETHGlobal Unite DeFi 2025 | [OPA](https://ethglobal.com/showcase/opa-irqup) |  | 1inch, No-Code Builder | 1 |
+| ETHOnline 2025 | [Goin' In](https://ethglobal.com/showcase/goin-in-8op71) | 🥈 2nd Place Arcology | Arcology, Envio | 1 |
 
 <!--
 

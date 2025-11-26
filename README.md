@@ -1,12 +1,8 @@
-<div align="center">
-
 # 👋 Hi, I'm Denis Perov
 
-### Senior Software Engineer | Web3 Enthusiast | Hackathon Winner
+### Software Engineer | Web3 Enthusiast | Seasoned Hacker
 
 ![Profile Views](https://komarev.com/ghpvc/?username=imajus&style=for-the-badge&color=blueviolet)
-
-</div>
 
 ---
 
@@ -18,6 +14,8 @@ Senior Software Engineer with **20+ years of experience** building clean, mainta
 - 🌱 Currently learning: Advanced LLM inference, RAG systems, and blockchain protocols
 - 👯 Looking to collaborate on: SaaS & Web3 startups, AI/ML projects, and hackathons
 - 💬 Ask me about: Backend architecture, JavaScript, MongoDB, Web3, AI agents
+- 💼 Collected diverse [portfolio](PORTFOLIO.md) over my 10+ years as a freelancer
+- 🏆 I participated in 10+ web3 [hackathons](HACKATHONS.md)
 
 ---
 
@@ -108,77 +106,6 @@ Technologies I've worked with in the past but am not actively using:
 
 ---
 
-## 💼 Portfolio
-
-Selected projects from my commercial work:
-
-<table border="0">
-<tr>
-<td width="25%" align="center">
-<h3>UTail</h3>
-<a href="https://majus.org/en/portfolio/utail">
-<img src="https://majus.org/assets/images/01-pW6xWaT7GS-533w.jpeg" width="100%" alt="UTail"/>
-</a>
-SaaS social marketing tool with reward-based sharing widget
-</td>
-<td width="25%" align="center">
-<h3>Airoko</h3>
-<a href="https://majus.org/en/portfolio/airoko">
-<img src="https://majus.org/assets/images/01-nJPDdVPBfy-1220w.jpeg" width="100%" alt="Airoko"/>
-</a>
-Travel booking service with embeddable widget and payment processing
-</td>
-<td width="25%" align="center">
-<h3>Estetic</h3>
-<a href="https://majus.org/en/portfolio/estetic">
-<img src="https://majus.org/assets/images/01-ne9mpzs7cN-1237w.jpeg" width="100%" alt="Estetic"/>
-</a>
-Beauty salon booking platform integrated with 1C system
-</td>
-<td width="25%" align="center">
-<h3>PropAgg</h3>
-<a href="https://majus.org/en/portfolio/propagg">
-<img src="https://majus.org/assets/images/01-5x-pyZ2fQL-960w.jpeg" width="100%" alt="PropAgg"/>
-</a>
-Real estate aggregator with multi-source parser and duplicate detection
-</td>
-</tr>
-<tr>
-<td width="25%" align="center">
-<h3>TopicVote</h3>
-<a href="https://majus.org/en/portfolio/topicvote">
-<img src="https://majus.org/assets/images/01-DK2AWM3zfy-1400w.jpeg" width="100%" alt="TopicVote"/>
-</a>
-Q&A knowledge platform with ranking and moderation tools
-</td>
-<td width="25%" align="center">
-<h3>KetBilietas</h3>
-<a href="https://majus.org/en/portfolio/ketbilietas">
-<img src="https://majus.org/assets/images/01-v8EoRF_QTG-960w.jpeg" width="100%" alt="KetBilietas"/>
-</a>
-Driving exam testing platform with subscription management
-</td>
-<td width="25%" align="center">
-<h3>My Tripster</h3>
-<a href="https://majus.org/en/portfolio/my-tripster">
-<img src="https://majus.org/assets/images/01-Ff5t-UTf3_-960w.jpeg" width="100%" alt="My Tripster"/>
-</a>
-Travel recommendation service integrated with Facebook and Google Maps
-</td>
-<td width="25%" align="center">
-<h3>Selbstauskunft</h3>
-<a href="https://majus.org/en/portfolio/selbstauskunft">
-<img src="https://majus.org/assets/images/01-ikWq1ch-vh-960w.jpeg" width="100%" alt="Selbstauskunft"/>
-</a>
-Form builder for landlords to collect tenant data
-</td>
-</tr>
-</table>
-
-[View more projects →](https://majus.org/tags/portfolio)
-
----
-
 ## 🔧 Open Source Projects
 
 <table border="0">
@@ -208,35 +135,20 @@ Suite of custom n8n nodes for blockchain interaction. Enables no-code developers
 
 ## 📊 GitHub Statistics
 
-<div align="center">
+<table border="0">
+<tr>
+<td width="50%" valign="top">
 
 ![GitHub Stats](https://github-readme-stats-opal-one-57.vercel.app//api?username=imajus&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
+</td>
+<td width="50%" valign="top">
+
 ![Top Languages](https://github-readme-stats-opal-one-57.vercel.app//api/top-langs/?username=imajus&layout=compact&theme=radical&hide_border=true)
 
-</div>
-
----
-
-## 🏆 Hackathon Projects
-
-Active participant in **10+ Web3 hackathons** (2023-2025), winning partner prizes in most events and reaching Finalist status at ETHOnline 2023.
-
-| Hackathon | Project | Achievement | Tech Stack | Team |
-|-----------|---------|-------------|------------|-----------|
-| ETHOnline 2023 | [ShopConnect](https://ethglobal.com/showcase/shopconnect-0qanh) | 🏆 ETHGlobal Finalist + Partner Prizes | Polygon ID, Zero-Knowledge Proofs | 5 |
-| ETHGlobal Istanbul 2023 | [DirectHelp](https://ethglobal.com/showcase/directhelp-sv9qe) | 🥇 1st Place UMA & Across | EAS, UMA Oracle | 3 |
-| Circuit Breaker 2024 | [AnonFund](https://ethglobal.com/showcase/anonfund-diog1) | 🏅 Best Iron Fish Protocol | IronFish, ZK Proofs | 1 |
-| Scaling Ethereum 2024 | [NoCodeSol](https://ethglobal.com/showcase/nocodesol-ckw6r) | 🏅 Morph Innovation Track | Solidity Compiler, Browser | 1 |
-| Agentic Ethereum 2024 | [Flowgent](https://ethglobal.com/showcase/flowgent-8k3a8) | 🏅 Best Flow Plugin | n8n, Flow Blockchain, AI Agents | 1 |
-| Superhack 2024 | [Napkin Contract](https://ethglobal.com/showcase/napkin-contract-s7p5q) | 🏅 Best Social App on Base | EAS, Base | 5 |
-| ETHOnline 2024 | [Loyalz](https://ethglobal.com/showcase/loyalz-3yidk) | 🏅 Best DeFi Micro-Rollups | Stackr, Envio | 5 |
-| ETHGlobal Bangkok 2024 | [Resell Protocol](https://ethglobal.com/showcase/resell-protocol-d47u8) | 🥇 1st Place Sign Protocol | PBTs, HaLo Chips | 3 |
-| ETHGlobal Trifecta 2025 | [Aggy](https://ethglobal.com/showcase/aggy-0fx3w) |  | Privy, Nillion, UMA | 3 |
-| PL_Genesis 2025 | [FiloDataBroker](https://github.com/imajus/filo-data-broker) | 🏅 Main Track + Partner Prizes | Filecoin, Lit Protocol, MCP | 1 |
-| Somnia DeFi 2025 | [EmberNFT](https://dorahacks.io/buidl/32824) |  | Somnia, AI-Generated NFTs | 1 |
-| ETHGlobal Unite DeFi 2025 | [OPA](https://ethglobal.com/showcase/opa-irqup) |  | 1inch, No-Code Builder | 1 |
-| ETHOnline 2025 | [Goin' In](https://ethglobal.com/showcase/goin-in-8op71) | 🥈 2nd Place Arcology | Arcology, Envio | 1 |
+</td>
+</tr>
+</table>
 
 <!--
 

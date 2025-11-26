@@ -99,7 +99,7 @@ Technologies I've worked with in the past but am not actively using:
 
 Selected projects from my commercial work:
 
-<table>
+<table border="0">
 <tr>
 <td width="25%" align="center">
 <h3>UTail</h3>
@@ -168,7 +168,7 @@ Form builder for landlords to collect tenant data
 
 ## 🔧 Open Source Projects
 
-<table>
+<table border="0">
 <tr>
 <td width="50%" valign="top">
 

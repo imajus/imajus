@@ -108,7 +108,7 @@ Technologies I've worked with in the past but am not actively using:
 
 ## 🔧 Open Source Projects
 
-<table border="0">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
 <tr>
 <td width="50%" valign="top">
 
@@ -135,14 +135,14 @@ Suite of custom n8n nodes for blockchain interaction. Enables no-code developers
 
 ## 📊 GitHub Statistics
 
-<table border="0">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 ![GitHub Stats](https://github-readme-stats-opal-one-57.vercel.app//api?username=imajus&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 ![Top Languages](https://github-readme-stats-opal-one-57.vercel.app//api/top-langs/?username=imajus&layout=compact&theme=radical&hide_border=true)
 

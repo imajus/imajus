@@ -133,6 +133,13 @@ Suite of custom n8n nodes for blockchain interaction. Enables no-code developers
 
 ---
 
+## :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
 ## 📊 GitHub Statistics
 
 <table width="100%" border="0" cellpadding="0" cellspacing="0">

@@ -17,3 +17,4 @@ Active participant in **10+ web3 hackathons** (2023-2025), winning partner in th
 | [**EmberNFT**](https://dorahacks.io/buidl/32824) | Somnia DeFi 2025 | Real-time AI-generated NFT platform with mystery minting and collection forking on Somnia | Solo | |
 | [**OPA**](https://ethglobal.com/showcase/opa-irqup) | ETHGlobal Unite DeFi 2025 | No-code visual strategy builder for 1inch Limit Order Protocol | Solo | |
 | [**Goin' In**](https://ethglobal.com/showcase/goin-in-8op71) | ETHOnline 2025 | High-performance ticketing with Arcology parallel execution and Envio indexing | Solo | 🥈 2nd Place Arcology + partner prizes |
+| [**Reputa**](https://ethglobal.com/showcase/reputa-wda0t) | ETHGlobal HackMoney 2026 | Cross-chain DeFi reputation bridge with AI scoring inside Sui Nautilus TEE and on-chain verification | 3 | 🥈 Sui - Notable Projects |

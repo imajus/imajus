@@ -112,15 +112,6 @@ Technologies I've worked with in the past but am not actively using:
 <tr>
 <td width="50%" valign="top">
 
-### [TeleGit](https://github.com/majus/telegit) ![Stars](https://img.shields.io/github/stars/majus/telegit?style=social)
-
-Telegram-native AI project assistant that syncs your ideas, bugs, and todos from chat into Github issues. Features LLM-powered intent classification, LangGraph workflow orchestration, and automated GitHub operations.
-
-**Tech Stack:** Node.js, LangChain, PostgreSQL, Telegram Bot API, GitHub MCP
-
-</td>
-<td width="50%" valign="top">
-
 ### [n8n-nodes-web3](https://github.com/majus/n8n-nodes-web3) ![Stars](https://img.shields.io/github/stars/majus/n8n-nodes-web3?style=social)
 
 Suite of custom n8n nodes for blockchain interaction. Enables no-code developers to build Web3 workflows with Ethereum transactions, Farcaster frames, Squid Router, and Flow blockchain operations.
@@ -130,41 +121,6 @@ Suite of custom n8n nodes for blockchain interaction. Enables no-code developers
 </td>
 </tr>
 </table>
-
----
-
-## :zap: Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
-## 📊 GitHub Statistics
-
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-<tr>
-<td width="50%" valign="top" align="center">
-
-![GitHub Stats](https://github-readme-stats-opal-one-57.vercel.app//api?username=imajus&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-</td>
-<td width="50%" valign="top" align="center">
-
-![Top Languages](https://github-readme-stats-opal-one-57.vercel.app//api/top-langs/?username=imajus&layout=compact&theme=radical&hide_border=true)
-
-</td>
-</tr>
-</table>
-
-<!--
-
-## 📈 Recent Activity
-
-TODO
-#}
-
--->
 
 ---
 
